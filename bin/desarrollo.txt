@@ -13,25 +13,24 @@ Se crean 6 paquetes:
 - ArchivoServicio
 - ClienteServicio
 - Esportador
-- ExportadorCsv hereda de heredan de Exportador.
-- ExportadorTXt hereda de heredan de Exportador. 
+- ExportadorCsv hereda  de Exportador.
+- ExportadorTXt hereda  de Exportador. 
 - importador
 
 4- test contiene la clase:
 -  ClienteServicioTest
 
 5  utilidades contiene la clase:
-- Utilidad, esta clase contiene métodos que son llamados de distintas clases, la clase que más la usa es Menu.
+- Utilidad, esta clase contiene m�todos que son llamados de distintas clases, la clase que m�s la usa es Menu.
 
 6  vista contiene las clases:
 - Menu
-- MenuTemplate es creada con los métodos solicitados para la clase menú.
+- MenuTemplate es creada con los metodos solicitados para la clase menu.
 
 Se realizan las validaciones correspondientes, para que el programa funcione correctamente.
-Se aplicaron pruebas unitarias en Método agrearClienteTest para verificar el funcionamiento de agregarCliente.
+Se aplicaron pruebas unitarias en metodo agrearClienteTest para verificar el funcionamiento de agregarCliente.
 
-German, me esforcé mucho y fueron horas de vigilia....
-Que tengas un buen día, tarde, noche....
+
 	
 
  
