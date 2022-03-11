@@ -1,0 +1,40 @@
+Estimado German, se sube la carpeta con la prueba.
+Se realizan las solicitudes
+
+
+Se crean 6 paquetes: 
+1- main contiene la clase Main
+
+2- modelo contiene las clases:
+- CategoriaEnum
+- Cliente
+
+3- servicio contiene las clases:
+- ArchivoServicio
+- ClienteServicio
+- Esportador
+- ExportadorCsv hereda de heredan de Exportador.
+- ExportadorTXt hereda de heredan de Exportador. 
+- importador
+
+4- test contiene la clase:
+-  ClienteServicioTest
+
+5  utilidades contiene la clase:
+- Utilidad, esta clase contiene métodos que son llamados de distintas clases, la clase que más la usa es Menu.
+
+6  vista contiene las clases:
+- Menu
+- MenuTemplate es creada con los métodos solicitados para la clase menú.
+
+Se realizan las validaciones correspondientes, para que el programa funcione correctamente.
+Se aplicaron pruebas unitarias en Método agrearClienteTest para verificar el funcionamiento de agregarCliente.
+
+German, me esforcé mucho y fueron horas de vigilia....
+Que tengas un buen día, tarde, noche....
+	
+
+ 
+
+
+ 
